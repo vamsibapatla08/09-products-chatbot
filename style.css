@@ -125,6 +125,9 @@ p {
   padding: 10px;
   border-radius: 10px;
   max-width: 80%;
+  white-space: pre-wrap;
+  line-height: 1.45;
+  word-break: break-word;
 }
 
 .message.bot {
